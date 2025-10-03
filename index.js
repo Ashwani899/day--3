@@ -1,5 +1,5 @@
 let index=0;
-let color=["Red","beige","peacock","green","teal"];
+let color=["Red","beige","skyblue","green","teal"];
 let myButton=document.getElementById("btn");
 let mycontainer=document.getElementsByClassName("container")[0];
 
